@@ -1,4 +1,4 @@
-## LaTeX-to-Illustrator (Mac OS)
+## LaTeX to Illustrator (Mac OS)
 Adobe Illustrator jsx script for Mac OS to insert LaTeX formulas directly into the document.
 
 This is a Mac OS version of script from [latex-community.org](http://latex-community.org/) developed by Hartmut Lemmel ([link](http://latex-community.org/know-how/latexs-friends/61-latexs-friends-others/381-combining-latex-and-illustrator)).
